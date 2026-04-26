@@ -1,0 +1,7 @@
+name: lotr-theme
+label: "Middle-earth"
+description: "Lord of the Rings dashboard theme plugin — Ring sidebar, map backdrop, and eldritch chrome"
+version: "1.0.0"
+author: "Ryan McCormick"
+kind: standalone
+key: lotr-theme
