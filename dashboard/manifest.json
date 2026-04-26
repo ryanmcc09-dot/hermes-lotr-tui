@@ -1,0 +1,17 @@
+{
+  "name": "lotr-theme",
+  "label": "Middle-earth",
+  "description": "LOTR Command Center — Eye of Sauron, Palant\u00edr, Fellowship Status, Quest Log, and Middle-earth map backdrop",
+  "icon": "Globe",
+  "version": "3.3.0",
+  "tab": {
+    "path": "/lotr-theme",
+    "position": "end",
+    "hidden": false
+  },
+  "slots": ["sidebar", "header-left", "header-right", "header-banner", "post-main", "backdrop", "overlay"],
+  "entry": "dist/index.js",
+  "css": null,
+  "has_api": false,
+  "source": "user"
+}
